@@ -1,8 +1,8 @@
-link:link{
-
+.lesson-four-task-one link:link{
+    color:red;
 }
 
-.lesson-four-task-one:hover{
+.lesson-four-task-one:hover {
     color:red;
     background: yellow;
 }
